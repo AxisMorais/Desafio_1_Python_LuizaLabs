@@ -11,7 +11,7 @@ Sistema bancário utilizando a linguagem Python - Orientação a objetos
 -Criar novo usuário
 -Sair
 
-![Sistema Bancário](img.gif)
+![Sistema Bancário](DiagramaUML.png)
 
 
 
