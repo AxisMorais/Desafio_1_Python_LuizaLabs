@@ -4,15 +4,7 @@
 Sistema bancário utilizando a linguagem Python - Orientação a objetos
 
 ---
-
-Métodos
--Depositar;
--Sacar; 
--Apresentar extrato;
--Criar nova conta;
--Criar novo usuário;
--Sair;
-
+#Diagrama UML
 ![Sistema Bancário](DiagramaUML.png)
 
 
